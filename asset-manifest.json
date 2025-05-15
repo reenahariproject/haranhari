@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/haranhari/static/css/main.dc71dc36.css",
+    "main.js": "/haranhari/static/js/main.ec5dd005.js",
+    "static/js/453.ed3810f9.chunk.js": "/haranhari/static/js/453.ed3810f9.chunk.js",
+    "static/media/video1.mp4": "/haranhari/static/media/video1.1a7d85d2e9b2f903623f.mp4",
+    "static/media/banner-bg.png": "/haranhari/static/media/banner-bg.c5bb7f07884ac6a0ca73.png",
+    "static/media/color-sharp.png": "/haranhari/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/haranhari/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/work.webp": "/haranhari/static/media/work.312312a7b80bf13c7088.webp",
+    "static/media/CentraNo2-Bold.ttf": "/haranhari/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/haranhari/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/haranhari/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/haranhari/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/haranhari/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/haranhari/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/newlogo.png.png": "/haranhari/static/media/newlogo.png.c041de418a99e8b30ca6.png",
+    "static/media/project-img3.png": "/haranhari/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/haranhari/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/revicons.eot": "/haranhari/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/haranhari/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/haranhari/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/haranhari/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/meter1.svg": "/haranhari/static/media/meter1.ad44712ee676ae8cf257986600d2baf6.svg",
+    "static/media/meter2.svg": "/haranhari/static/media/meter2.04c15e8e9652179587f296252d114e00.svg",
+    "static/media/meter3.svg": "/haranhari/static/media/meter3.0b6cf038a29192227b92b641f964de88.svg",
+    "index.html": "/haranhari/index.html",
+    "static/media/nav-icon1.svg": "/haranhari/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon4.svg": "/haranhari/static/media/nav-icon4.ab2b9d5375bdb52b1e1e9bda015bc81c.svg",
+    "static/media/arrow2.svg": "/haranhari/static/media/arrow2.b3d03e1b04ec1904a5658aea5776433c.svg",
+    "static/media/arrow1.svg": "/haranhari/static/media/arrow1.1088f8313e5637897aff2414e5938141.svg",
+    "static/media/telephone.svg": "/haranhari/static/media/telephone.b8ae85079ab772b5e9ff4ea81a551ca4.svg",
+    "static/media/envelope.svg": "/haranhari/static/media/envelope.698a86540acf3ab0cf981185145b30f6.svg",
+    "main.dc71dc36.css.map": "/haranhari/static/css/main.dc71dc36.css.map",
+    "main.ec5dd005.js.map": "/haranhari/static/js/main.ec5dd005.js.map",
+    "453.ed3810f9.chunk.js.map": "/haranhari/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc71dc36.css",
+    "static/js/main.ec5dd005.js"
+  ]
+}
